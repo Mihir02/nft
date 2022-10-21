@@ -1,2 +1,3 @@
 # nft
-my school project
+
+I need a starter code for nft generation and transaction...
